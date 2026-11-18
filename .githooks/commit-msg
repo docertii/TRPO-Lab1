@@ -1,0 +1,2 @@
+#!/bin/sh
+awk 'NR==1 {if(length($0)>72 || length($0)==0) bad=1} NR==2 {if(length($0)!=0) bad=1} NR>2 && length($0)>0 {if(length($0)>100 || substr($0,1,4)!="    ") bad=1} END {if(bad) {print "Commit rejected: subject 1..72; blank second line; body indented 4 spaces, <=100."; exit 1}}' "$1"
