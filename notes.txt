@@ -5,3 +5,4 @@ Second revision: commits preserve history.
 Master branch addition.
 Feature branch addition.
 Master evolves before rebase.
+Reset experiment: mixed.
