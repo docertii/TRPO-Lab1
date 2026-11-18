@@ -1,4 +1,5 @@
 Laboratory 1: Git
+Cherry-picked note: individual changes are reusable.
 Author: Egor Dokaev
 Topic: version control
 Second revision: commits preserve history.
