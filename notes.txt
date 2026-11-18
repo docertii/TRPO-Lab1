@@ -1,6 +1,6 @@
 Laboratory 1: Git
 Author: Egor Dokaev
-Topic: version control
+Topic: version control and collaboration
 Second revision: commits preserve history.
 Master branch addition.
 Feature branch addition.
