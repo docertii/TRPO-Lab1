@@ -1,0 +1,24 @@
+UU notes.txt
+* ebd23fa (HEAD -> master) Add master branch text
+| * 65cb16b (feature) Add feature branch text
+|/  
+* 38b1068 Add explanation of commits
+* c25a763 Initial text file
+
+INDEX DIFF
+* Unmerged path notes.txt
+
+WORKTREE DIFF
+diff --cc notes.txt
+index 93cfbdf,8d7e054..0000000
+--- a/notes.txt
++++ b/notes.txt
+@@@ -2,4 -2,4 +2,8 @@@ Laboratory 1: Gi
+  Author: Egor Dokaev
+  Topic: version control
+  Second revision: commits preserve history.
+++<<<<<<< HEAD
+ +Master branch addition.
+++=======
++ Feature branch addition.
+++>>>>>>> feature

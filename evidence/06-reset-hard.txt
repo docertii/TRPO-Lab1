@@ -1,0 +1,26 @@
+* f294dd9 (tag: before-reset-hard) Temporary commit for hard reset
+| * b898f7b (tag: before-reset-mixed) Temporary commit for mixed reset
+|/  
+| * a0ec6d1 (tag: before-reset-soft) Temporary commit for soft reset
+|/  
+* e4414e5 (HEAD -> reset-hard, reset-soft, reset-mixed, master) Revert "Add reusable note"
+* 3560483 (tag: before-revert) Add reusable note
+| * 3702531 (feature) Add reusable note
+| | * d1ad38e (rebase-demo) Expand topic in rebase branch
+| |/  
+|/|   
+* | ac5fc96 Advance master before rebase
+| | * 2c7ad84 (tag: before-rebase) Expand topic in rebase branch
+| |/  
+|/|   
+* | f64bd54 Resolve merge conflict preserving both additions
+|\| 
+| * 65cb16b Add feature branch text
+* | ebd23fa Add master branch text
+|/  
+* 38b1068 Add explanation of commits
+* c25a763 Initial text file
+
+INDEX DIFF
+
+WORKTREE DIFF

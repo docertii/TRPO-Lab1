@@ -1,0 +1,15 @@
+* d1ad38e (HEAD -> rebase-demo) Expand topic in rebase branch
+* ac5fc96 (master) Advance master before rebase
+| * 2c7ad84 (tag: before-rebase) Expand topic in rebase branch
+|/  
+*   f64bd54 Resolve merge conflict preserving both additions
+|\  
+| * 65cb16b (feature) Add feature branch text
+* | ebd23fa Add master branch text
+|/  
+* 38b1068 Add explanation of commits
+* c25a763 Initial text file
+
+INDEX DIFF
+
+WORKTREE DIFF

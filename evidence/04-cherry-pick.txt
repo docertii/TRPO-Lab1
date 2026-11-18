@@ -1,0 +1,20 @@
+* 3560483 (HEAD -> master, tag: before-revert) Add reusable note
+| * 3702531 (feature) Add reusable note
+| | * d1ad38e (rebase-demo) Expand topic in rebase branch
+| |/  
+|/|   
+* | ac5fc96 Advance master before rebase
+| | * 2c7ad84 (tag: before-rebase) Expand topic in rebase branch
+| |/  
+|/|   
+* | f64bd54 Resolve merge conflict preserving both additions
+|\| 
+| * 65cb16b Add feature branch text
+* | ebd23fa Add master branch text
+|/  
+* 38b1068 Add explanation of commits
+* c25a763 Initial text file
+
+INDEX DIFF
+
+WORKTREE DIFF

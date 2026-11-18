@@ -1,0 +1,24 @@
+From 37025319a6cd7a58ce8fe61f9320e6320d0f8dcb Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?=D0=94=D0=BE=D0=BA=D0=B0=D0=B5=D0=B2=20=D0=95=D0=B3=D0=BE?=
+ =?UTF-8?q?=D1=80=20=D0=A1=D0=B5=D1=80=D0=B3=D0=B5=D0=B5=D0=B2=D0=B8=D1=87?=
+ <egor.dokaev@example.invalid>
+Date: Wed, 18 Nov 2026 18:31:51 +0500
+Subject: [PATCH] Add reusable note
+
+---
+ notes.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/notes.txt b/notes.txt
+index 8d7e054..0798d11 100644
+--- a/notes.txt
++++ b/notes.txt
+@@ -1,4 +1,5 @@
+ Laboratory 1: Git
++Cherry-picked note: individual changes are reusable.
+ Author: Egor Dokaev
+ Topic: version control
+ Second revision: commits preserve history.
+-- 
+2.56.0.windows.4
+

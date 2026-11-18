@@ -1,0 +1,7 @@
+* 65cb16b (feature) Add feature branch text
+* 38b1068 (HEAD -> master) Add explanation of commits
+* c25a763 Initial text file
+
+INDEX DIFF
+
+WORKTREE DIFF

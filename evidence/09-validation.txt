@@ -1,0 +1,3 @@
+git commit --allow-empty -m [73 characters]
+Exit: 1
+Commit rejected: subject 1..72; blank second line; body indented 4 spaces, <=100.
