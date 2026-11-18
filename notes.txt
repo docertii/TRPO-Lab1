@@ -4,3 +4,4 @@ Topic: version control
 Second revision: commits preserve history.
 Master branch addition.
 Feature branch addition.
+Master evolves before rebase.
