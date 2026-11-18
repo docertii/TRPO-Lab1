@@ -2,3 +2,4 @@ Laboratory 1: Git
 Author: Egor Dokaev
 Topic: version control
 Second revision: commits preserve history.
+Feature branch addition.
